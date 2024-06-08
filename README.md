@@ -20,4 +20,4 @@ https://openweathermap.org/api
     pip install (library name)
 
 ## Output :
-![Screenshot](https://github.com/ipithani/Weather-Application/blob/main/Weather%20APP%20Output.png)
+![Screenshot](https://github.com/inarenpithani/Weather-Application/blob/main/Weather%20APP%20Output.png)
